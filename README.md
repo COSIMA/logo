@@ -1,4 +1,4 @@
-# COSIMA Logo
+<img src="png/logo_word.png" width="800"/>
 
 This repository contains the logo of the Consortium for Ocean-Sea Ice Modelling in Australia (COSIMA).
 
