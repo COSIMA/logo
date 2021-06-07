@@ -8,4 +8,4 @@ Different file formats and versions of the logo are provided:
 - PDF
 - SVG
 
-The COSIMA logo was created with constructive observations of the COSIMA community. The logo represents the meaning of COSIMA, in particular the words “Ocean, Sea Ice, and Australia”.
+The COSIMA logo was created by Josué Martínez Moreno ([@josuemtzmo](https://github.com/josuemtzmo)) after consultation and costructive discussions with the COSIMA community. The logo encapsulates the meaning of COSIMA, in particular the words “Ocean, Sea Ice, and Australia”.
